@@ -44,11 +44,14 @@ more Documentation you can read from [React Native Webview Documentation](https:
 #### Extra Props :
 ##### `enabledUploadAndroid`
 this props allow WebView to Browse File from local directory for upload to website
-| Type                 | Required      |
-| -------------------- |:-------------:|
-| bool                 | No            |
+
+| Type | Required |
+|------|----------|
+| bool | No |
+
 ##### `enabledDownloadAndroid`
 this props allow WebView to Download file from Website to local directory
-| Type                 | Required      |
-| -------------------- |:-------------:|
-| bool                 | No            |
+
+| Type | Required |
+|------|----------|
+| bool | No |
